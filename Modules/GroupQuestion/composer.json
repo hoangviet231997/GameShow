@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/groupquestion",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\GroupQuestion\\Providers\\GroupQuestionServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\GroupQuestion\\": ""
+        }
+    }
+}

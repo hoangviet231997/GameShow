@@ -1,0 +1,14 @@
+{
+    "name": "Awser",
+    "alias": "awser",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Awser\\Providers\\AwserServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

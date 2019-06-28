@@ -1,0 +1,14 @@
+{
+    "name": "NewGameShow",
+    "alias": "newgameshow",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\NewGameShow\\Providers\\NewGameShowServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

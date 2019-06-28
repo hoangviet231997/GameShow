@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/newgameshow",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\NewGameShow\\Providers\\NewGameShowServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\NewGameShow\\": ""
+        }
+    }
+}

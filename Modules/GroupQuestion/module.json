@@ -1,0 +1,14 @@
+{
+    "name": "GroupQuestion",
+    "alias": "groupquestion",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\GroupQuestion\\Providers\\GroupQuestionServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
